@@ -1,5 +1,9 @@
 # ColorSense for Xcode
 
+## Modify by this repo
+1. Add support for Hex color
+2. Add 'f' after float value when auto complete
+
 ## Overview
 
 ColorSense is an Xcode plugin that makes working with `UIColor` (and `NSColor`) more visual.
