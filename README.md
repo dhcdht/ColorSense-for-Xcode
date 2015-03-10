@@ -3,6 +3,7 @@
 ## Modify by this repo
 1. Add support for Hex color
 2. Add 'f' after float value when auto complete
+3. Xcode 6.2 support
 
 ## Overview
 
